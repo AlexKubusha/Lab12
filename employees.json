@@ -1,0 +1,57 @@
+[
+    {
+        "Surname": "Shevchenko",
+        "Address": "Kyiv, Hrushevskoho 1",
+        "Position": "Manager"
+    },
+    {
+        "Surname": "Kovalenko",
+        "Address": "Lviv, Franka 22",
+        "Position": "Engineer"
+    },
+    {
+        "Surname": "Bondarenko",
+        "Address": "Odesa, Deribasivska 10",
+        "Position": "Analyst"
+    },
+    {
+        "Surname": "Tkachenko",
+        "Address": "Kharkiv, Svobody 15",
+        "Position": "Designer"
+    },
+    {
+        "Surname": "Melnyk",
+        "Address": "Dnipro, Gagarina 8",
+        "Position": "Technician"
+    },
+    {
+        "Surname": "Kravchenko",
+        "Address": "Zaporizhzhia, Soborna 5",
+        "Position": "Engineer"
+    },
+    {
+        "Surname": "Boyko",
+        "Address": "Poltava, Shevchenka 3",
+        "Position": "HR"
+    },
+    {
+        "Surname": "Shapoval",
+        "Address": "Vinnytsia, Kyivska 11",
+        "Position": "Developer"
+    },
+    {
+        "Surname": "Moroz",
+        "Address": "Rivne, Voli 4",
+        "Position": "Manager"
+    },
+    {
+        "Surname": "Petrenko",
+        "Address": "Cherkasy, Pidvalna 9",
+        "Position": "Engineer"
+    },
+    {
+        "Surname": "Kubusha",
+        "Address": "Sumy, Soborna 42",
+        "Position": "Developer"
+    }
+]
