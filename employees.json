@@ -30,9 +30,9 @@
         "Position": "Engineer"
     },
     {
-        "Surname": "Shapoval",
-        "Address": "Vinnytsia, Kyivska 11",
-        "Position": "Developer"
+        "Surname": "Boyko",
+        "Address": "Poltava, Shevchenka 3",
+        "Position": "HR"
     },
     {
         "Surname": "Moroz",
@@ -43,5 +43,10 @@
         "Surname": "Petrenko",
         "Address": "Cherkasy, Pidvalna 9",
         "Position": "Engineer"
+    },
+    {
+        "Surname": "Kubusha",
+        "Address": "Sumy,Soborna 102",
+        "Position": "Developer"
     }
 ]
